@@ -4,11 +4,11 @@
 
 
 ## Normal Pull request (messy history)
+![image](https://github.com/xmsi/github_rebase/assets/59314275/bf572d20-8dc0-405e-8d26-61383a2bbe79)
 
-![image](https://github.com/xmsi/github_rebase/assets/59314275/6534382b-bde0-454e-8f94-b4fb72e069e6)
 
 ## Reabse version (clear history)
-![image](https://github.com/xmsi/github_rebase/assets/59314275/bf572d20-8dc0-405e-8d26-61383a2bbe79)
+![image](https://github.com/xmsi/github_rebase/assets/59314275/6534382b-bde0-454e-8f94-b4fb72e069e6)
 
 ## all needed commands 
 ![image](https://github.com/xmsi/github_rebase/assets/59314275/cdebc075-f85d-4d45-861c-18087632b1b7)
