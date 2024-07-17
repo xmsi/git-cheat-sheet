@@ -1,4 +1,10 @@
-# What is github reabse
+## Undo all before commit
+
+``git clean -nfd`` to check\
+```git clean -fd``` to remove\
+``git reset -- .`` not force(will not delete new files)
+
+## What is github reabse
 
 ### From [Philomatics](https://www.youtube.com/watch?v=xN1-2p06Urc) youtube channel
 
