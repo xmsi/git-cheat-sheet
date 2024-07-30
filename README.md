@@ -4,6 +4,14 @@
 ```git clean -fd``` to remove\
 ``git reset -- .`` not force(will not delete new files)
 
+
+## Pull Fetch Rebase
+
+Git pull — связка последующих команд git fetch и git merge. \
+Включить изменения из удаленного репозитория в локальную копию проекта путем слияния (**merge**) \
+Наложить локальные коммиты поверх обновленной удаленной ветки (**rebase**) \
+[Источник](https://selectel.ru/blog/tutorials/git-fetch-command-how-is-it-different-from-git-pull/) 
+
 ## What is github reabse
 
 ### From [Philomatics](https://www.youtube.com/watch?v=xN1-2p06Urc) youtube channel
